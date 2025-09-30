@@ -1,5 +1,5 @@
 # 🎣 Guía Práctica de Ingeniería Social y Phishing: Simulación con SEToolkit y Zphisher
-
+![Banner del Repositorio](./pishing.png)
 ---
 
 ## 📖 Introducción
